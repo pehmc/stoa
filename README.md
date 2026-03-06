@@ -1,2 +1,5 @@
-# stoa
-A medium-low frequency trading system designed for zero-leverage stocks and funds.
+# Stoa - For Moderate Traders.
+
+<p align="center">
+  <img src ="./docs/stoa-logo.png"/>
+</p>
